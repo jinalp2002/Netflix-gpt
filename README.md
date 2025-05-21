@@ -1,8 +1,10 @@
-#netflix-gpt
+github link of akshays project https://github.com/akshaymarch7/netflix-gpt
+# netflix-gpt
 
 - create-react-app
 - configured tailwind css
-
+- Header
+Login Form
 
 # Features
 -Lig-in/Sign-up page
